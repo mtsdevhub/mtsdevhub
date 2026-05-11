@@ -3,7 +3,7 @@
 **Analista de Dados em Formação | ADS | SQL · Power BI · Modelagem de Dados · BI**
 
 Estudante de Análise e Desenvolvimento de Sistemas no último semestre, com foco em dados e banco de dados.
-Venho construindo conhecimento prático em SQL, modelagem relacional, ETL, Data Warehouse e BI — e publicando os projetos aqui à medida que evoluo.
+Venho construindo conhecimento prático em SQL, modelagem relacional, ETL, Data Warehouse e BI — e publicando os projetos aqui à medida que evoluo.!
 
 ---
 
